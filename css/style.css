@@ -11562,7 +11562,7 @@ h5,
   -webkit-box-shadow: 0px 20px 69px -27px rgba(0, 0, 0, 0.17);
   -moz-box-shadow: 0px 20px 69px -27px rgba(0, 0, 0, 0.17);
   box-shadow: 0px 20px 69px -27px rgba(0, 0, 0, 0.17);
-  transition: transform 0.8s;
+  transition: transform 0.4s;
 }
 .services-1 .icon {
   display: block;
@@ -11610,17 +11610,17 @@ ul li {
   color: #ffbd39;
 }
 .services-1:hover {
-  background: #ffbd39;
+  background: #bf7f02;
   transform: scale(1.03);
 }
 .services-1:hover .icon i {
   color: #fff;
 }
 .services-1:hover h3 {
-  color: #000000;
+  color: #fff;
 }
 .services-1:hover h3:after {
-  background: #000000;
+  background: #fff;
 }
 
 .progress-wrap {
